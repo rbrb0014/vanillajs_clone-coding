@@ -8,7 +8,6 @@ h1 {
     color:red;
     transition: color .5s ease-in-out;
 }
-
 .clicked {
     color:#8e44ad;
 }
